@@ -12,6 +12,9 @@ API no padrão Rest para cadastro de usuários, posts, comentários e suas assoc
 - Spring Data
 - MongoDB
 - Maven
+
+## Modelo Conceitual
+![Modelo Conceitual](assets/modelo_conceitual.png)
   
 # Como executar o projeto
 
